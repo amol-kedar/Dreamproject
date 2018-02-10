@@ -5,4 +5,4 @@
  * @author sandip
  *
  */
-package service;
+package com.dp.model.response;
